@@ -1,0 +1,66 @@
+
+
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="utf-8">
+    <title>{{ page.title }} - {{ site.title }}</title>
+    <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
+  </head>
+  <body>
+  
+
+
+
+
+<section id="homepage-hero">
+	<div class="homepage-wrapper">
+
+
+	<p class="site-description-up"><span class="yellow">FRANKFURT</span> AM MAIN</p>
+	<p class="site-description-down">Gebäudereiniung & Unterhaltsreiniung</p>
+	<p class="site-description-bottom">inkl. Notfall Service für <span class="yellow">Frankfurt am Main</span>.</p>
+
+
+	<a id="hrefkon" href="/"><button id="kontaktbutton">kostenlose Erstberatung</button></a>
+
+
+
+	</div>
+</section>
+
+
+
+{% include nav.html %}
+
+
+
+<section id="area1">
+
+	<div class="wrapper-left">
+
+    {{ content }}
+
+	</div>
+
+	<div class="wrapper-right">
+
+	{% include sidebar.html %}
+
+	</div>
+
+</section>
+
+
+
+
+{% include footer.html %}
+
+
+
+
+<script src="/main.js"></script>
+
+</body>
+</html>

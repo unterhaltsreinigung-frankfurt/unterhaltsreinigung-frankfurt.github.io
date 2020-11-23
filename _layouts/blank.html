@@ -1,0 +1,62 @@
+
+
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="utf-8">
+    <title>{{ page.title }} - {{ site.title }}</title>
+    <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
+  </head>
+  <body>
+  
+
+
+
+
+<section id="homepage-hero">
+	<div class="homepage-wrapper">
+
+
+	<p class="site-description-down">{{ page.title }}</p>
+
+
+
+
+	</div>
+</section>
+
+
+
+{% include nav.html %}
+
+
+
+<section id="area1">
+
+	<div class="wrapper-left">
+
+    {{ content }}
+
+	</div>
+
+	<div class="wrapper-right">
+
+	{% include sidebar.html %}
+
+	</div>
+
+</section>
+
+
+
+
+{% include footer.html %}
+
+
+
+
+<script src="/main.js"></script>
+
+</body>
+</html>

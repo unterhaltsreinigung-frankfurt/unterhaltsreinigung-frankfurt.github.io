@@ -14,7 +14,7 @@ Sind Sie auf der Suche nach einer Lösung für die Büroreinigung? Dann suchen S
 
 Wählen Sie aus einer einmaligen Reinigung für Ihr Büro, oder vereinbaren Sie regelmäßige Termine, um von unseren Sonderpreisen zu profitieren. Ob es sich um Konferenzräume, Gemeindezentren, Clubhallen, Warteräume oder Büros handelt, wir haben eine maßgeschneiderte Reinigungslösung.
 
-Wir bieten eine 100%ige Zufriedenheitsgarantie für unseren Reinigungsservice, und unsere Reinigungskräfte sind versichert. Unterhaltsreinigung Frankfurt stellt alle Geräte und Reinigungsmittel, einschließlich unserer Eco-Cert-Produkte, zur Verfügung.
+Wir bieten eine 100%ige Zufriedenheitsgarantie für unseren Reinigungsservice, und unsere Reinigungskräfte sind versichert. Unterhaltsreinigung Frankfurt stellt alle Geräte und Reinigungsmittel, einschließlich unserer frankfurter Eco Produkte, zur Verfügung.
 
 ## Kommerzielle Büroreinigung
 
@@ -32,6 +32,6 @@ Zu den Dienstleistungen von Unterhaltsreinigung Frankfurt im Bereich der Gebäud
 * Leeren und Desinfizieren von Abfallbehältern
 * Entlüftungsöffnungen zum Absaugen
 * Reinigung schwer zugänglicher Oberflächen
-* * Desinfizierendes Aufwischen und Abwischen aller harten Oberflächen
+* Desinfizierendes Aufwischen und Abwischen aller harten Oberflächen
 * Sanitisierung und Reinigung von Waschräumen (einschließlich Waschbecken, Toiletten, Türen und Einbauten)
 * Reinigung reflektierender Oberflächen

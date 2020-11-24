@@ -1,0 +1,96 @@
+---
+title: blog
+permalink: /blog
+---
+
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="utf-8">
+    <title>{{ page.title }} - {{ site.title }}</title>
+    <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
+  </head>
+  <body>
+  
+
+
+
+
+<section id="homepage-hero">
+	<div class="homepage-wrapper">
+
+
+	<p class="site-description-down">{{ page.title }}</p>
+
+
+
+
+	</div>
+</section>
+
+
+
+{% include nav.html %}
+
+
+
+<section id="area1">
+
+	<div class="wrapper-left">
+
+        <ul class="posts">
+
+   
+
+            {% for post in site.posts %}
+            <article class="excerpt" itemscope itemtype="http://schema.org/BlogPosting">
+                  <div class="post-image">
+                      <img src="{{ site.baseurl }}{{ post.image }}" alt="{{ post.alt }}">
+              </div>
+        
+              <div class="tags">
+        
+                <div class="categorie">{{ post.categories}} </div>
+                <a href="{{ post.url }}"><h2 itemprop="name headline" class="excerpt_title">{{ post.title }}</h2></a>
+                <time class="single-time" itemprop="dateModified" content="{{ post.updated }}">Aktualisiert: {{ post.date | date: "%-d %B %Y" }}</time>
+        
+               </div>
+        
+                
+                
+                
+        
+              
+                <p class="post_excerpt">
+                {{ post.excerpt }}
+                </p>
+        
+                <a class="button blog" href="{{ post.url }}"><button class="button-blog">Mehr lesen</button></a>
+        
+        </article>
+            {% endfor %}
+          </ul>
+
+	</div>
+
+	<div class="wrapper-right">
+
+	{% include sidebar.html %}
+
+	</div>
+
+</section>
+
+
+
+
+{% include footer.html %}
+
+
+
+
+<script src="/main.js"></script>
+
+</body>
+</html>

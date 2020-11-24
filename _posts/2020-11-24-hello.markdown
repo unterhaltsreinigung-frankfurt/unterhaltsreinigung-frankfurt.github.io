@@ -1,0 +1,9 @@
+---
+title: Unser Liebeserklärung an Frankfurt
+layout: blank
+category: Frankfurt
+image: /assets/frankfurt-am-main.jpg
+excerpt: Warum einen post extra für Frankfurt schreiben. Weil Frankfurt so wunderbar ist. Hier könnt ihr unsere Liebeserklärung für Frankfurt lesen.
+---
+
+Frankfurt du bist so wunderbar!

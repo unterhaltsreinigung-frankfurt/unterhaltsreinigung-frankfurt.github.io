@@ -1,66 +1,4 @@
-
-
-<!DOCTYPE html>
-<html lang="de">
-  <head>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta charset="utf-8">
-    <title>Service für Frankfurt am Main - Unterhaltsreinigung Frankfurt</title>
-    <link rel="stylesheet" href="/assets/css/main.css">
-  </head>
-  <body>
-  
-
-
-
-
-<section id="homepage-hero">
-	<div class="homepage-wrapper">
-
-
-	<p class="site-description-down">Service für Frankfurt am Main</p>
-
-
-
-
-	</div>
-</section>
-
-
-
-<nav id="menu" itemscope itemtype="https://schema.org/SiteNavigationElement">
-
-    <a href="/"><h3>Unterhaltsreinigung Frankfurt</h3></a>
-  
-    <div class="menu-icon" onclick="myFunction()">
-    <span></span>
-    </div>
-  
-    <ul id="ulliste">
-      <a href="/">Home</a>
-      <div class="dropdown">
-        <a class="dropbtn" href="/service">Service</a>
-  
-        <div class="dropdown-content">
-        <a href="/service/glasreinigung-frankfurt">Glasreinigung</a>
-        <a href="/service/teppichreinigung-frankfurt">Teppichreinigung</a>
-        </div>
-  
-  
-      </div>
-      <a href="/kontakt">Kontakt</a>
-  
-    </ul>
-  
-  </nav>
-
-
-
-<section id="area1">
-
-	<div class="wrapper-left">
-
-    <h1 id="unterhaltsreinigung-frankfurt---reinigungsdienste-für-frankfurt-am-main---faqs">Unterhaltsreinigung Frankfurt - Reinigungsdienste für Frankfurt am Main - FAQS</h1>
+I"�<h1 id="unterhaltsreinigung-frankfurt---reinigungsdienste-für-frankfurt-am-main---faqs">Unterhaltsreinigung Frankfurt - Reinigungsdienste für Frankfurt am Main - FAQS</h1>
 
 <p>Anbei ein paar Antworten zu unserem Reinigungsservice für Frankfurt am Main.</p>
 
@@ -70,7 +8,7 @@
 
 <h2 id="wie-erhalten-die-reinigungskräfte-zugang-zu-meiner-wohnung-wenn-ich-bei-der-arbeit-bin">Wie erhalten die Reinigungskräfte Zugang zu meiner Wohnung, wenn ich bei der Arbeit bin?</h2>
 
-<p>Teilen Sie uns einfach Ihre Präferenz mit. Wenn Sie uns einen Schlüssel für zukünftige Reinigungen ausstellen möchten, können Sie ihn bei Ihrer Reinigungskraft abgeben oder in unserem Büro in der Frankfurt Bornheim über unseren Briefkasten abgeben. Wir können uns auch gerne an der Rezeption Ihres Gebäudes Zugang zu einem Schließfach verschaffen oder uns Schlüssel ausstellen lassen, wenn wir die Erlaubnis dazu erhalten.</p>
+<p>Teilen Sie uns einfach Ihre Präferenz mit. Wenn Sie uns einen Schlüssel für zukünftige Reinigungen ausstellen möchten, können Sie ihn bei Ihrer Reinigungskraft abgeben oder in unserem Büro in der 1627 20th Street über unseren Briefkasten abgeben. Wir können uns auch gerne an der Rezeption Ihres Gebäudes Zugang zu einem Schließfach verschaffen oder uns Schlüssel ausstellen lassen, wenn wir die Erlaubnis dazu erhalten.</p>
 
 <h2 id="wie-sicher-ist-meine-reinigungsperson">Wie sicher ist meine Reinigungsperson?</h2>
 <p>Aus Sicherheitsgründen darf keine Reinigungskraft Gegenstände über 25 Pfund heben oder Trittleitern oder Hocker benutzen. Wenn Sie möchten, dass wir hinter Möbeln oder Geräten reinigen, verlegen Sie diese bitte vor unserer Ankunft.</p>
@@ -102,65 +40,4 @@
 <p>Regelmäßige, wiederkehrende Reinigungsdienste zu Hause sind wirklich besser für Ihr Stressniveau und sie sind ein unermessliches Erfolgserlebnis. Stellen Sie sich vor, mit einem bereits sauberen und aufgeräumten Zuhause in eine neue Woche zu gehen oder ins Wochenende zu springen!</p>
 
 <p>Mit den wiederkehrenden Reinigungsdiensten von Unterhaltsreinigung Frankfurt möchten wir Ihnen einen unglaublichen Seelenfrieden bieten, denn je öfter Ihr Unterhaltsreinigung Frankfurt putzt, desto vertrauter ist es mit Ihrem Zuhause und Ihren Vorlieben.</p>
-
-
-	</div>
-
-	<div class="wrapper-right">
-
-	
-
-		
-        <h4>Hi, wir sind Gebäudereinigung Frankfurt.</h4>
-        
-		<img title="frankfurt-reinigung" id="port" src="/assets/gebaeudereiniung-frankfurt.jpg" alt="gebaeudereiniung-frankfurt">
-
-
-
-		<h4>Wieso uns Reinigen lassen?</h4>
-
-		<ul class="liste">
-			<li>Mehrere Jahre Erfahrung in der Reinigungsbranche.</li>
-			<li>Wir verwenden Produkte, die sicher für die Umwelt, Menschen und Haustiere sind.</li>
-			<li>Faire Preise.</li>
-			<li>Lokale Frankfurter Reinigungsexperten.</li>
-			<li>Inklusive Notfall Service</li>
-		</ul>
-
-
-
-		<img src="/assets/unterhaltsreiniung-frankfurt.jpg" alt="unterhaltsreiniung-frankfurt">
-
-
-		<h4>Kontakt</h4>
-		<p>Nutzen Sie einfach unser Kontaktformular für Anfragen jeglicher Art. Natürlich ist jede Anfrage zu 100% unverbindlich und kostenlos.</p>
-
-
-
-
-	</div>
-
-</section>
-
-
-
-
-
-<footer>
-<p>© 2020 Gebäudereinigung Frankfurt - Unterhaltsreinigung & Mehr</p>
-
-<div class="footer-unten">
-<a href="/"><h3>Datenschutz</h3></a>
-<a href="/"><h3>Über Uns</h3></a>
-</div>
-
-
-</footer>
-
-
-
-
-<script src="/main.js"></script>
-
-</body>
-</html>
+:ET

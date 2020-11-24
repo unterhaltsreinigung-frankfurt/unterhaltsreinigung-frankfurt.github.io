@@ -8,6 +8,8 @@ p { color: #454545; font-size: 1em; line-height: 1.7em; }
 
 img { max-width: 100%; }
 
+ul { line-height: 27px; color: #444444; }
+
 .liste { padding-left: 0em; }
 
 .liste li { color: #545454; font-size: 1em; line-height: 1.7em; list-style: none; border-bottom: 1px solid #ededed; padding-bottom: 0.5em; padding-top: 0.5em; }

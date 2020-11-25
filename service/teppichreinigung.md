@@ -1,6 +1,6 @@
 ---
 layout: blank
-title: Teppichreinigung 
+title: Teppichreinigung Frankfurt
 permalink: /service/teppichreinigung-frankfurt
 ---
 ## Teppichreinigung für Frankfurt am Main

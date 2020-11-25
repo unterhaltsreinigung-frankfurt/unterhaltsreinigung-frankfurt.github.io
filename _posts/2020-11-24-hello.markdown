@@ -3,7 +3,29 @@ title: Unser Liebeserklärung an Frankfurt
 layout: blank
 category: Frankfurt
 image: /assets/frankfurt-am-main.jpg
+permalink: /blog/frankfurt-liebe
 excerpt: Warum einen post extra für Frankfurt schreiben. Weil Frankfurt so wunderbar ist. Hier könnt ihr unsere Liebeserklärung für Frankfurt lesen.
 ---
 
-Frankfurt du bist so wunderbar!
+# Frankfurt du bist so wunderbar!
+
+2020 hat die gnaze Welt geändert. Als Reinigungsservice Frankfurt bekommen wir das besonders zu spüren.
+
+Die Sorgfalt mit der wir unsere Arbeit durchführen ist gleich geblieben, korrektes Arbeiten stand bei uns als Unterhaltsreinigung Frankfurt schon immer
+mim Fokus. Was dazu gekommen ist, ist die spezielle Arbeitsweise um das Corona Virus so gut wie möglich zu bekämpfen. Auch deshalb bieten wir für
+unsere Frankfurter Unternehmen und Büros den <a href="/service/desinfektionsreinigung-frankfurt">Covid-19 Desinfektionsservice</a> durch.
+
+## vom Bahnhofsviertel bis zum Westhafentower
+
+Unsere Frankfurter Kunden sind überall. Manche von Ihnen befinden sich z.B. am <a href="https://en.wikipedia.org/wiki/Westhafen_Tower" target="_blank">Westhaften Tower</a> und gerade hier spürt man die Auswirkungen von Corona sehr.
+
+Andere Geschäfte wie Supermaktketten, müssen besonders häufig gereinigt werden. Man denke nur an die Geschäfte an de Zeil, die eine riesen Nachfrage gerecht werden müssen. Besonders an den kalten Wintermonaten wie jetzt, im November 2020.
+
+Aber auch viele Frankfurter Restaurants z.B. in Bornheim unterstützen wir mit unserem Reinigungsservice.
+
+<img src="/assets/frankfurt-bornheim.png" alt="restaurants-in-frankfurt-bornheim">
+
+Wir genießen jede Sekunden mit unseren Kunden aus Frankfurt und hoffen gemeinsam mit ihnen die Gefahr von Covid-19 zu minimieren und sauber halten zu lassen.
+
+Bleibt gesund!
+

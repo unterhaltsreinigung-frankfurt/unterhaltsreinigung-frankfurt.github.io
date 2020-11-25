@@ -1,6 +1,6 @@
 ---
 layout: blank
-title: Glasreinigung (Fensterreinigung)
+title: Glasreinigung Frankfurt (Fensterreinigung)
 permalink: /service/glasreinigung-frankfurt
 ---
 

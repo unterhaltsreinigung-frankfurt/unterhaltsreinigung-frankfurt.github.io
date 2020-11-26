@@ -1,6 +1,5 @@
 ---
 layout: default
-title: Gebäudereinigung & Unterhaltsreinigung Frankfurt am Main
 ---
 
 # Ihr Reinigungsdienst für Frankfurt am Main

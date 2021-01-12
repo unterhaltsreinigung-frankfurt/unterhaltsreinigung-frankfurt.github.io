@@ -17,6 +17,8 @@ Wir arbeiten unter anderen in:
 * Gallus
 * Sachsenhauen
 
+Neben der Unterhaltsreinigung bieten wir ebenfalls die <a href="/service/desinfektionsreinigung-frankfurt">Desinfektionsreinigung</a>, die <a href="/service/bodenreiniung-frankfurt">Bodenreinigung</a> sowie die <a href="/service/teppichreinigung-frankfurt">Teppichreinigung</a> an.
+
 <img src="/assets/frankfurt-am-main.jpg" alt="frankfurt am main">
 
 ## STANDARD-REINIGUNGSDIENSTE

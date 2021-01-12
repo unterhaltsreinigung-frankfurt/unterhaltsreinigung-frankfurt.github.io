@@ -1,74 +1,4 @@
-
-
-<!DOCTYPE html>
-<html lang="de">
-  <head>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta charset="utf-8">
-    <title>Gebäudereinigung & Unterhaltsreinigung Frankfurt am Main</title>
-    <link rel="stylesheet" href="/assets/css/main.css">
-  </head>
-  <body>
-  
-
-
-
-
-<section id="homepage-hero">
-	<div class="homepage-wrapper">
-
-
-	<p class="site-description-up"><span class="yellow">FRANKFURT</span> AM MAIN</p>
-	<p class="site-description-down">Gebäudereiniung & Unterhaltsreiniung</p>
-	<p class="site-description-bottom">inkl. Notfall Service für <span class="yellow">Frankfurt am Main</span>.</p>
-
-
-	<a id="hrefkon" href="/kontakt"><button id="kontaktbutton">kostenlose Erstberatung</button></a>
-
-
-
-	</div>
-</section>
-
-
-
-<nav id="menu" itemscope itemtype="https://schema.org/SiteNavigationElement">
-
-    <a href="/"><h3>Unterhaltsreinigung Frankfurt</h3></a>
-  
-    <div class="menu-icon" onclick="myFunction()">
-    <span></span>
-    </div>
-  
-    <ul id="ulliste">
-      <a href="/">Home</a>
-      <a href="/blog">Blog</a>
-      <div class="dropdown">
-        <a class="dropbtn" href="/service">Service</a>
-  
-        <div class="dropdown-content">
-        <a href="/service/glasreinigung-frankfurt">Glasreinigung</a>
-        <a href="/service/teppichreinigung-frankfurt">Teppichreinigung</a>
-        <a href="/service/bueroreinigung-frankfurt">Büroreinigung</a>
-        <a href="/service/bodenreiniung-frankfurt">Bodenreinigung</a>
-        <a href="/service/desinfektionsreinigung-frankfurt">Desinfektionsreinigung</a>
-        </div>
-  
-  
-      </div>
-      <a href="/kontakt">Kontakt</a>
-  
-    </ul>
-  
-  </nav>
-
-
-
-<section id="area1">
-
-	<div class="wrapper-left">
-
-    <h1 id="ihr-reinigungsdienst-für-frankfurt-am-main">Ihr Reinigungsdienst für Frankfurt am Main</h1>
+I"�<h1 id="ihr-reinigungsdienst-für-frankfurt-am-main">Ihr Reinigungsdienst für Frankfurt am Main</h1>
 
 <p>Ob die kleine Kette in <a href="https://de.wikipedia.org/wiki/Frankfurt_am_Main" target="_blank">Frankfurt</a> Bornheim, das Cafe im Frankfurter Westend oder der riesen Supermarkt auf der Frankfurter Zeil. Als Unterhaltsreinigung Frankfurt sind wir für die Mainmetrople da, um alles sauber zu halten.</p>
 
@@ -85,7 +15,7 @@
   <li>Sachsenhauen</li>
 </ul>
 
-<p>Neben der Unterhaltsreinigung bieten wir ebenfalls die <a href="/service/desinfektionsreinigung-frankfurt">Desinfektionsreinigung</a>, die <a href="/service/bodenreiniung-frankfurt">Bodenreinigung</a> sowie die <a href="/service/teppichreinigung-frankfurt">Teppichreinigung</a> an.</p>
+<p>Neben der Unterhaltsreinigung bieten wir ebenfalls die <a href="/service/desinfektionsreinigung-frankfurt">Desinfektionsreinigung</a>, die <a href="/service/bodenreiniung-frankfurt">Bodenreinigung</a> sowie die <a href="/service/teppichreinigung-frankfurt">Teppichreinigung</a>.</p>
 
 <p><img src="/assets/frankfurt-am-main.jpg" alt="frankfurt am main" /></p>
 
@@ -177,65 +107,4 @@
     <p>Fensterwaschen Frankfurt am Main</p>
   </li>
 </ul>
-
-
-	</div>
-
-	<div class="wrapper-right">
-
-	
-
-		
-        <h4>Hi, wir sind Gebäudereinigung Frankfurt.</h4>
-        
-		<img title="frankfurt-reinigung" id="port" src="/assets/gebaeudereiniung-frankfurt.jpg" alt="gebaeudereiniung-frankfurt">
-
-
-
-		<h4>Wieso uns Reinigen lassen?</h4>
-
-		<ul class="liste">
-			<li>Mehrere Jahre Erfahrung in der Reinigungsbranche.</li>
-			<li>Wir verwenden Produkte, die sicher für die Umwelt, Menschen und Haustiere sind.</li>
-			<li>Faire Preise.</li>
-			<li>Lokale Frankfurter Reinigungsexperten.</li>
-			<li>Inklusive Notfall Service</li>
-		</ul>
-
-
-
-		<img src="/assets/unterhaltsreiniung-frankfurt.jpg" alt="unterhaltsreiniung-frankfurt">
-
-
-		<h4>Kontakt</h4>
-		<p>Nutzen Sie einfach unser Kontaktformular für Anfragen jeglicher Art. Natürlich ist jede Anfrage zu 100% unverbindlich und kostenlos.</p>
-
-
-
-
-	</div>
-
-</section>
-
-
-
-
-
-<footer>
-<p>© 2020 Gebäudereinigung Frankfurt - Unterhaltsreinigung & Mehr</p>
-
-<div class="footer-unten">
-<a href="/"><h3>Datenschutz</h3></a>
-<a href="/"><h3>Über Uns</h3></a>
-</div>
-
-
-</footer>
-
-
-
-
-<script src="/main.js"></script>
-
-</body>
-</html>
+:ET

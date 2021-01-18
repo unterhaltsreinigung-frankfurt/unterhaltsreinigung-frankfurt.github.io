@@ -3,7 +3,7 @@ title: Unser Liebeserklärung an Frankfurt
 layout: blank
 category: Frankfurt
 image: /assets/frankfurt-am-main.jpg
-permalink: /blog/frankfurt-liebe
+permalink: /blog/frankfurt-liebes
 excerpt: Warum einen post extra für Frankfurt schreiben. Weil Frankfurt so wunderbar ist. Hier könnt ihr unsere Liebeserklärung für Frankfurt lesen.
 ---
 

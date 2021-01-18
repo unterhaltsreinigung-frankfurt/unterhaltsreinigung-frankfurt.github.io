@@ -1,7 +1,7 @@
 ---
 layout: blank
 title: Bodenreiniung Frankfurt 
-permalink: /service/frankfurt-bodenreinidung
+permalink: /service/bodenreiniung-frankfurt
 ---
 
 # Bodenreiniung Frankfurt

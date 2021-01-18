@@ -4,7 +4,7 @@ title: Bodenreiniung Frankfurt
 permalink: /service/frankfurt-bodenreinidung
 ---
 
-# Bodenreiniung Frankfurt
+# Frankfurt Bodenreiniung
 
 ## Gewerbliche Bodenpflege auf franffurter Ebene
 
